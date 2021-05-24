@@ -14,3 +14,7 @@ mysql -u root -p dbadmin < routines_dbadmin.sql
 ```
 mysql -u root -p dbadmin -e "source ./routines_dbadmin.sql;"
 ```
+
+
+- Managing Schema updates
+* [Skeema Examples](https://www.skeema.io/docs/examples/)
